@@ -47,11 +47,6 @@ function requireAuth() {
   return true;
 }
 
-function logout() {
-  sessionStorage.clear();
-  window.location.href = 'index.html';
-}
-
 /* ══════════════════════════════════════════════
    NETWORK
 ══════════════════════════════════════════════ */
