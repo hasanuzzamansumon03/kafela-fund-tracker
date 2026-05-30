@@ -8,7 +8,7 @@
 const CONFIG = {
 
   /* Apps Script Deploy URL এখানে দিন */
-  API_URL: 'https://script.google.com/macros/s/AKfycby8yc3XALlPXo2BvM3r55-GPsGSflNCUtwMl_d2xcI-RNN16WZJRRCLMDwWtW9oJU8jkw/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbzUmjI4f0Nqx1KM8oXTva65scrEyLPVaY6i0d_6EHAnk9EXBPV2Dc_2Rs67qK9B_AS-nA/exec',
 
   /* আপনার ৪ সংখ্যার PIN */
   PIN: '1234',
